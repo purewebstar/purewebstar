@@ -14,9 +14,7 @@
 
 </p>
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&theme=radical&show_icons=true&count_private=true)
-
-
-
+<div align='center'>
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=radical&langs_count=8)
-
+</div>
