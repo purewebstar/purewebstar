@@ -14,3 +14,50 @@
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&theme=radical&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=radical&langs_count=8)
 
+
+## Developer Tech
+
+### Frameworks 
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/frameworks/jquery.svg" alt="jquery" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/materialize.svg" alt="materialize" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/nodejs.svg" alt="nodejs" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  <a href="#">
+    <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+
+
+### Languages 
+
+<p align="left">
+  <a href="#">
+    <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/dev/languages/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/dev/languages/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+
+
+</p>
