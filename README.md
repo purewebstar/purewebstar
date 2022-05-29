@@ -1,16 +1,19 @@
-### Hi there 👋
+<div align="center">
+<h1 align='center'>Hi there, I'm <a href="https://hemant.codes">Abraham</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+</div>
 
-<!--
-**abriilo/abriilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+<h3>  Abraham Mitiku | 💻 MERN Stack Developer | Ethiopia </h3>
+</div>
 
-Here are some ideas to get you started:
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a align='center' href="https://twitter.com/abriiloo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abriiloo?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abriiloo"></a>
+
+<a href="https://badges.pufler.dev/visits/abriilo/abriilo"> <img alt="abrilo" src="https://badges.pufler.dev/visits/abriilo/abriilo"> </a>
+
+</p>
+
+![Github stats]([https://github-readme-stats.vercel.app/api?username=yourusername&theme=highcontrast&show_icons=true&count_private=true](https://github-readme-stats.vercel.app/api?username=abriilo&theme=highcontrast&show_icons=true&count_private=true))
+
+![Top Languages Card]([https://github-readme-stats.vercel.app/api/top-langs/?username=shinokada](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=highcontrast))
