@@ -7,13 +7,10 @@
 </div>
 
 <p align="center">
-
 <a align='center' href="https://twitter.com/abriiloo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abriiloo?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abriiloo"></a>
-
 <a href="https://badges.pufler.dev/visits/abriilo/abriilo"> <img alt="abrilo" src="https://badges.pufler.dev/visits/abriilo/abriilo"> </a>
-
 </p>
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&show_icons=true&count_private=true)
+![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&theme=radical&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=radical&langs_count=8)
 
