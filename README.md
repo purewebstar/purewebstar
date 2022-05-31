@@ -12,7 +12,7 @@
 </p>
 
 ![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abriilo&theme=radical&show_icons=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abriilo&theme=radical)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abriilo&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=radical&langs_count=8)
 
