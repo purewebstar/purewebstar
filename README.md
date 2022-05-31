@@ -15,4 +15,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abriilo&theme=radical&langs_count=8)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abriilo)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abriilo&theme=highcontrast)]
