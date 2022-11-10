@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-<a align='center' href="https://twitter.com/abriiloo"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/abriiloo?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@abriiloo"></a>
+<a align='center' href="https://twitter.com/purewebstar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/purewebstar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@purewebstar"></a>
 <a href="https://badges.pufler.dev/visits/abriilo/abriilo"> <img alt="abrilo" src="https://badges.pufler.dev/visits/abriilo/abriilo"> </a>
 </p>
 
