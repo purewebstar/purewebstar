@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h3>  Abraham Mitiku | 💻 MERN Stack Developer | Youtuber | Ethiopia </h3>
+<h3>  | Youtuber: /@purewebstar | 💻 MERN Stack Developer | Ethiopia </h3>
 </div>
 
 
