@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-<h3>  Abraham Mitiku | 💻 MERN Stack Developer | Ethiopia </h3>
+<h3>  Abraham Mitiku | 💻 MERN Stack Developer | Youtuber | Ethiopia </h3>
 </div>
+
 
 <p align="center">
 <a align='center' href="https://twitter.com/purewebstar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/purewebstar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@purewebstar"></a>
