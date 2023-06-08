@@ -11,8 +11,7 @@
 <a align='center' href="https://twitter.com/purewebstar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/purewebstar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@purewebstar"></a>
 </p>
 
-![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=purewebstar&theme=radical&show_icons=true&count_private=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purewebstar&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purewebstar&theme=radical&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purewebstar&theme=radical&langs_count=10)
 
