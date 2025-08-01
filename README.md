@@ -11,7 +11,7 @@
 <a align='center' href="https://twitter.com/purewebstar"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/purewebstar?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@purewebstar"></a>
 </p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=purewebstar&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=purewebstar)](https://git.io/streak-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=purewebstar&theme=radical&langs_count=10)
 
